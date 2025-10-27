@@ -68,7 +68,7 @@ I love merging **engineering precision** with **entrepreneurial strategy** to cr
 
 ![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrazzaq27&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazzaq27&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulrazzaq27&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRazzaq&theme=radical&hide_border=true&t=2)
 
 </div>
 
