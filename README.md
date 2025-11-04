@@ -74,10 +74,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrazzaq27&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulrazzaq27&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🎯 Vision
