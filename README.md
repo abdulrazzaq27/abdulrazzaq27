@@ -1,15 +1,19 @@
 # Abdul Razzaq
 
-**Full-Stack Developer & AI Engineer**
-
-I build full-stack applications and AI-powered tools that simplify everyday workflows.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrazzaq27/GitCube/main/assets/abdulrazzaq27-dark.gif">
-    <img src="https://raw.githubusercontent.com/abdulrazzaq27/GitCube/main/assets/abdulrazzaq27.gif" width="320" alt="My GitHub contribution activity as an animated Rubik's Cube">
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <strong>Full-Stack Developer &amp; AI Engineer</strong>
+      <p>I build full-stack applications and AI-powered tools that simplify everyday workflows.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrazzaq27/GitCube/main/assets/abdulrazzaq27-dark.gif">
+        <img src="https://raw.githubusercontent.com/abdulrazzaq27/GitCube/main/assets/abdulrazzaq27.gif" width="280" alt="My GitHub contribution activity as an animated Rubik's Cube">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## Featured Projects
 
