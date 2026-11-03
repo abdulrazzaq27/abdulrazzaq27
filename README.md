@@ -1,4 +1,3 @@
-
 # Abdul Razzaq
 
 <picture>
@@ -11,6 +10,10 @@
 <strong>Full-Stack Developer &amp; AI Engineer</strong>
 
 I build full-stack applications and AI-powered tools that simplify everyday workflows.
+
+I turn complex ideas into simple, intuitive, and scalable products.  
+Currently exploring AI engineering, scalable systems, and developer tools.
+
 
 <br clear="all">
 
