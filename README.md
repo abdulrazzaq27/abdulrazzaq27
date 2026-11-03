@@ -4,6 +4,13 @@
 
 I build full-stack applications and AI-powered tools that simplify everyday workflows.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrazzaq27/GitCube/main/assets/abdulrazzaq27-dark.gif">
+    <img src="https://raw.githubusercontent.com/abdulrazzaq27/GitCube/main/assets/abdulrazzaq27.gif" width="320" alt="My GitHub contribution activity as an animated Rubik's Cube">
+  </picture>
+</p>
+
 ## Featured Projects
 
 ### SPARK — AI-powered finance platform
